@@ -12,5 +12,5 @@ Gem::Specification.new do |s|
              "whitepages.gemspec"]
   s.require_paths = ["lib"]
  
-  s.add_dependency("json_pure", ">", "1.1.2")
+  s.add_dependency("json_pure")
 end
